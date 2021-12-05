@@ -3,8 +3,8 @@
 A Command Line command used for Stack Overflow search results
 
 ## **Overview**
+![StackCL](https://user-images.githubusercontent.com/95392853/144746368-9bd667dd-d71c-4de2-8f06-3c3428da78a9.gif)
 
-![StackCL](https://user-images.githubusercontent.com/95392853/144740570-831cca9d-bec7-42a1-a720-2ecf16dc04de.gif)
 
 ## **Installation**
 
@@ -26,14 +26,15 @@ $ cd StackCL
 $ pip install requirements.txt
 ```
 
-<p/> <b>Activate the shell script :<b/> <p/>
- 
-```
-source ~/.my_commands.sh
-```
+## **Setup**
+
+
+1. Add the stackCL.py file to the path of environment variables 
+
+2. Add the source <filepath/command.sh> to the .bashrc file 
+
 
 ## **Usage**
-
 ```
 To run the script type in 'stack <search string>'
 ```
