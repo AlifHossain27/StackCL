@@ -31,7 +31,7 @@ $ pip install requirements.txt
 
 1. Add the stackCL.py file to the path of environment variables 
 
-2. Add the source <filepath/command.sh> to the .bashrc file 
+2. Add the 'source <filepath/command.sh>' to the .bashrc file 
 
 
 ## **Usage**
