@@ -1,6 +1,6 @@
 # **StackCL** <br><a href="https://github.com/AlifHossain27/StackCL/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/AlifHossain27/StackCL"></a> <a href="https://github.com/AlifHossain27/StackCL/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AlifHossain27/StackCL"></a> <a href="https://github.com/AlifHossain27/StackCL/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/AlifHossain27/StackCL"></a>
 
-A Command Line command used for Stack Overflow search results
+A CLI command used for Stack Overflow search results
 
 ## **Overview**
 ![StackCL](https://user-images.githubusercontent.com/95392853/144746368-9bd667dd-d71c-4de2-8f06-3c3428da78a9.gif)
