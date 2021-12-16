@@ -8,19 +8,19 @@ A CLI command used for Stack Overflow search results
 
 ## **Installation**
 
-<p> <b>Clone this repository :<b/><p/>
+<p> <b>Clone this repository :</b></p>
  
 ```
 $ git clone https://github.com/AlifHossain27/StackCL.git
 ```
 
-<p> <b>Go into the repository :<b/><p/>
+<p> <b>Go into the repository :</b></p>
   
 ```
 $ cd StackCL
 ```
 
-<p> <b>Install dependencies :<b/> <p/>
+<p> <b>Install dependencies :</b> </p>
   
 ```
 $ pip install requirements.txt
