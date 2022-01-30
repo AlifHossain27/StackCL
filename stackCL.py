@@ -23,7 +23,7 @@ def stackCL():
           for i in d['items']:
             options.append(i['title'])
 
-          mainMenu=TerminalMenu(options,title = "Stackoverflow Search Results")
+          mainMenu=TerminalMenu(options,title = "Stackoverflow Search Results: ")
           quitting=False
 
           # Functionality of the Options
