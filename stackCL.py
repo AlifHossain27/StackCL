@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 import requests
 from simple_term_menu import TerminalMenu
@@ -22,7 +23,7 @@ def stackCL():
           for i in d['items']:
             options.append(i['title'])
 
-          mainMenu=TerminalMenu(options)
+          mainMenu=TerminalMenu(options,title = "Stackoverflow Search Results")
           quitting=False
 
           # Functionality of the Options
