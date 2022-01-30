@@ -23,7 +23,7 @@ $ cd StackCL
 <p> <b>Install dependencies :</b> </p>
   
 ```
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## **Setup**
